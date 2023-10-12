@@ -8,3 +8,6 @@ This assignment:
 - Checks the integer and float underflows in python and the float overflow.
 - Checks machine precision for floats and complex numbers in python.
 - Finds the error in the calculation of the derivatives of some functions at some values for the central difference and forward difference methods.
+
+## Assignment 2
+This assigment takes COVID-19 case number data from Ireland and fits curves to it.
